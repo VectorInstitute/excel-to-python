@@ -1,0 +1,451 @@
+Zip Code,County,City
+50002,Adair,Adair
+50003,Dallas,Adel
+50005,MARSHALL,Albion
+50006,Hardin,Alden
+50009,Polk,Altoona
+50010,Story,Ames
+50014,Story,Ames
+50015,Story,AMES
+50020,Cass,Anita
+50021,Polk,Ankeny
+50022,Cass,Atlantic
+50023,Polk,Ankeny
+50025,Audubon,Audubon
+50028,Jasper,Baxter
+50033,WARREN,Bevington
+50035,Polk,Bondurant
+50036,Boone,Boone
+50044,Marion,Bussey
+50046,Story,Cambridge
+50047,Warren,Carlisle
+50048,Guthrie,Casey
+50049,Lucas,Chariton
+50054,Jasper,Colfax
+50056,Story,Colo
+50058,Carroll,Coon Rapids
+50060,Wayne,Corydon
+50061,Warren,Cumming
+50069,Dallas,De Soto
+50071,Wright,Dows
+50072,Madison,Earlham
+50075,Hamilton,Ellsworth
+50076,Audubon,Exira
+50107,Greene,Grand Junction
+50109,Dallas,Granger
+50111,Polk,Grimes
+50112,Poweshiek,Grinnell
+50115,Guthrie,Guthrie Center
+50122,Hardin,Hubbard
+50123,Wayne,Humeston
+50124,Story,Huxley
+50125,Warren,Indianola
+50126,Hardin,Iowa Falls
+50129,Linn,Marion
+50130,Hamilton,Jewell
+50131,Polk,Johnston
+50135,Jasper,Kellogg
+50136,Jasper,KELLOG
+50138,Marion,Knoxville
+50140,Decatur,Lamoni
+50142,Marshall,Le Grand
+50144,Decatur,Leon
+50150,Monroe,Lovilia
+50156,Boone,Madrid
+50158,Marshall,Marshalltown
+50160,Warren,Martensdale
+50161,Story,Maxwell
+50162,Marshall,Melbourne
+50163,Marion,Melcher-dallas
+50169,POLK,Mitchellville
+50170,Jasper,Monroe
+50171,Poweshiek,Montezuma
+50174,Clarke,MURRAY
+50201,Story,Nevada
+50206,Jasper,Newton
+50207,Mahaska,New Sharon
+50208,Jasper,Newton
+50210,Warren,New Virginia
+50211,Warren,Norwalk
+50212,Boone,Ogden
+50213,Clarke,Osceola
+50216,Guthrie,Panora
+50219,Marion,Pella
+50220,Dallas,Perry
+50225,Marion,Pleasantville
+50226,Polk,Polk City
+50228,Jasper,Prairie City
+50237,POLK,Runnells
+50240,Madison,St Charles
+50244,Story,Slater
+50247,Marshall,State Center
+50248,Story,Story City
+50249,Hamilton,Stratford
+50250,Adair,Stuart
+50251,Jasper,Sully
+50257,MADISON,Truro
+50261,Dallas,Van Meter
+50263,Dallas,Waukee
+50265,Polk,West Des Moines
+50266,Polk,West Des Moines
+50273,Madison,Winterset
+50276,Dallas,Woodward
+50300,Polk,DES MOINES
+50309,Polk,Des Moines
+50310,Polk,Des Moines
+50311,Polk,Windsor Heights
+50312,Polk,Des Moines
+50313,Polk,Des Moines
+50314,Polk,Des Moines
+50315,Polk,Des Moines
+50316,Polk,Des Moines
+50317,Polk,Pleasant Hill
+50320,Polk,Des Moines
+50321,Polk,Des Moines
+50322,Polk,Windsor Heights
+50323,Polk,Urbandale
+50324,Polk,Windsor Heights
+50325,Polk,Clive
+50327,Polk,Pleasant Hill
+50401,Cerro Gordo,Mason City
+50421,Wright,Belmond
+50423,Hancock,Britt
+50424,Winnebago,Buffalo Center
+50428,Cerro Gordo,ClearLake
+50430,Hancock,Corwith
+50435,Floyd,Floyd
+50436,Winnebago,Forest City
+50438,Hancock,Garner
+50441,Franklin,Hampton
+50447,HANCOCK,Kanawha
+50450,Winnebago,Lake Mills
+50452,Franklin,Latimer
+50456,Worth,Manly
+50458,Floyd,Nora Springs
+50459,Worth,Northwood
+50461,Mitchell,Osage
+50466,Mitchell,Riceville
+50469,Cerro Gordo,Rockwell
+50472,Mitchell,St Ansgar
+50475,Franklin,Sheffield
+50483,Kossuth,Wesley
+50501,Webster,Fort Dodge
+50510,BUENA VIST,Albert City
+50511,Kossuth,Algona
+50514,Emmet,Armstrong
+50517,Kossuth,Bancroft
+50525,Wright,Clarion
+50529,Humboldt,Dakota City
+50530,Webster,Dayton
+50533,Wright,Eagle Grove
+50535,Sac,Early
+50536,Palo Alto,Emmetsburg
+50540,Pocahontas,Fonda
+50541,Humboldt,Gilmore City
+50542,Wright,Goldfield
+50543,Webster,Gowrie
+50548,Humboldt,Humboldt
+50554,Pocahontas,Laurens
+50563,Calhoun,Manson
+50569,Webster,Otho
+50574,Pocahontas,Pocahontas
+50575,Calhoun,POMEROY
+50579,Calhoun,Rockwell City
+50581,Pocahontas,Rolfe
+50583,Sac,Sac City
+50585,Buena Vista,Sioux Rapids
+50588,Buena Vista,Storm Lake
+50590,Kossuth,Swea City
+50595,Hamilton,Webster City
+50597,Kossuth,West Bend
+50598,Kossuth,Whittemore
+50601,Webster,Ackley
+50602,Butler,Dumont
+50603,Chickasaw,ALTA VISTA
+50606,Fayette,Arlington
+50613,Black Hawk,Cedar Falls
+50616,Floyd,Charles City
+50619,Butler,Clarksville
+50621,Grundy,Conrad
+50622,Bremer,Denver
+50627,Hardin,Eldora
+50628,Howard,Elma
+50629,Buchanan,Fairbank
+50630,Chickasaw,Fredericksburg
+50632,TAMA,Garwin
+50634,Black Hawk,Gilbertville
+50635,TAMA,Gladbrook
+50636,Butler,Greene
+50638,Grundy,Grundy Center
+50641,Buchanan,Hazleton
+50643,Black Hawk,Hudson
+50644,Buchanan,Independence
+50647,Black Hawk,Cedar Falls
+50648,Buchanan,Jesup
+50651,Black Hawk,La Porte City
+50658,Chickasaw,Nashua
+50659,Chickasaw,New Hampton
+50662,Fayette,Oelwein
+50665,Butler,Parkersburg
+50667,Black Hawk,Raymond
+50669,Grundy,Reinbeck
+50674,Bremer,Sumner
+50675,Tama,Traer
+50676,Bremer,Tripoli
+50677,Bremer,Waverly
+50680,Grundy,Wellsburg
+50682,Buchanan,Winthrop
+50701,Black Hawk,Waterloo
+50702,Webster,Waterloo
+50703,Black Hawk,Waterloo
+50707,Black Hawk,Waterloo
+50801,Union,Creston
+50830,Union,Afton
+50833,Taylor,Bedford
+50841,Adams,Corning
+50846,Adair,Fontanelle
+50849,Adair,Greenfield
+50851,Taylor,Lenox
+50854,Ringgold,Mount Ayr
+50864,Montgomery,Villisca
+51001,Plymouth,Akron
+51002,Buena Vista,Alta
+51003,Sioux,ALTON
+51004,Woodbury,Anthon
+51005,Cherokee,Aurelia
+51012,Cherokee,Cherokee
+51023,Sioux,Hawarden
+51025,Ida,Holstein
+51027,Sioux,Ireton
+51028,Plymouth,Kingsley
+51031,Plymouth,Lemars
+51034,Monona,Mapleton
+51035,Cherokee,Marcus
+51038,Plymouth,Merrill
+51040,Monona,Onawa
+51041,Sioux,Orange City
+51046,OBRIEN,Paullina
+51050,Plymouth,Remsen
+51053,Sac,SCHALLER
+51054,Woodbury,Sergeant Bluff
+51055,Woodbury,Sloan
+51058,OBRIEN,Sutherland
+51061,CHEROKEE,Washta
+51101,Woodbury,Sioux City
+51103,Woodbury,Sioux City
+51104,Woodbury,Sioux City
+51105,Woodbury,Sioux City
+51106,Woodbury,Sioux City
+51108,Woodbury,Sioux City
+51109,Woodbury,Sioux City
+51201,OBRIEN,Sheldon
+51230,Lyon,ALVORD
+51235,LYON,Doon
+51237,Lyon,George
+51238,Sioux,Hospers
+51240,Lyon,Inwood
+51241,Lyon,Larchwood
+51245,OBRIEN,Primghar
+51246,Lyon,Rock Rapids
+51247,Sioux,Rock Valley
+51248,OBRIEN,Sanborn
+51249,Osceola,Sibley
+51250,Sioux,Sioux Center
+51301,Clay,Spencer
+51331,Dickinson,Arnolds Park
+51334,Emmet,Estherville
+51338,Clay,Everly
+51342,Palo Alto,Graettinger
+51346,OBRIEN,Hartley
+51347,Dickinson,Lake Park
+51351,Dickinson,Milford
+51355,Dickinson,Okoboji
+51358,Palo Alto,Ruthven
+51360,Dickinson,Spirit Lake
+51401,Carroll,Carroll
+51442,Crawford,Denison
+51443,Carroll,Glidden
+51445,Ida,Ida Grove
+51449,Calhoun,Lake City
+51450,Sac,Lake View
+51453,Calhoun,Lohrville
+51455,Carroll,Manning
+51461,Crawford,Schleswig
+51462,Greene,Scranton
+51463,CARROLL,Templeton
+51466,Sac,Wall Lake
+51501,Pottawattamie,Council Bluffs
+51503,Pottawattamie,Council Bluffs
+51510,Pottawattamie,Carter Lake
+51521,Pottawattamie,Avoca
+51526,Pottawattamie,Crescent
+51529,HARRISON,Dunlap
+51530,SHELBY,Earling
+51534,Mills,Glenwood
+51535,Cass,Griswold
+51537,Shelby,Harlan
+51546,Harrison,Logan
+51551,Mills,Malvern
+51553,Pottawattamie,Minden
+51555,Harrison,Missouri Valley
+51559,Pottawattamie,Neola
+51560,Pottawattamie,Oakland
+51561,Mills,Pacific Junction
+51566,Montgomery,Red Oak
+51570,Harrison,Shelby
+51573,MONTGOMERY,Stanton
+51575,Pottawattamie,Treynor
+51577,Pottawattamie,Walnut
+51579,Harrison,Woodbine
+51601,Page,Shenandoah
+51632,Page,Corning
+51640,Fremont,Hamburg
+51653,FREMONT,Tabor
+52001,Iowa,Dubuque
+52002,Dubuque,Dubuque
+52003,Dubuque,Dubuque
+52004,Dubuque,DUBUQUE
+52031,Jackson,Bellevue
+52033,Dubuque,Cascade
+52035,Delaware,COLESBURG
+52036,Delaware,Delaware
+52037,Clinton,Delmar
+52040,Dubuque,Dyersville
+52042,Clayton,Edgewood
+52043,Clayton,Elkader
+52046,Dubuque,Farley
+52049,Clayton,Garnavillo
+52052,Clayton,Guttenberg
+52053,Dubuque,Holy Cross
+52057,Delaware,Manchester
+52060,Jackson,Maquoketa
+52068,Dubuque,Peosta
+52069,Jackson,PRESTON
+52076,Clayton,Strawberry Point
+52079,Jackson,Zwingle
+52084,Scott,Davenport
+52087,Delaware,Manchester
+52101,Winneshiek,Decorah
+52134,Howard,CHESTER
+52136,Howard,Cresco
+52142,Fayette,Fayette
+52144,Winneshiek,Fort Atkinson
+52146,Allamakee,Harpers Ferry
+52151,Allamakee,Lansing
+52154,Chickasaw,Lawler
+52157,Clayton,MCGREGOR
+52158,CLAYTON,Marquette
+52159,Clayton,Monona
+52161,Winneshiek,OSSIAN
+52162,Allamakee,Postville
+52166,Fayette,St Lucas
+52172,Allamakee,Waukon
+52175,Fayette,West Union
+52202,LINN,Alburnett
+52203,IOWA,Amana
+52205,Jones,Anamosa
+52206,BENTON,Atkins
+52207,Jackson,Baldwin
+52208,Benton,Belle Plaine
+52211,Poweshiek,Brooklyn
+52213,Linn,Center Point
+52214,Linn,Central City
+52223,Delaware,Delhi
+52224,Tama,Dysart
+52227,Linn,Ely
+52228,Linn,Fairfax
+52233,Linn,Hiawatha
+52240,Johnson,Iowa City
+52241,Johnson,Coralville
+52245,Johnson,Iowa City
+52246,Johnson,Iowa City
+52248,Keokuk,Keota
+52253,Linn,Lisbon
+52254,Clinton,Lost Nation
+52301,Iowa,Marengo
+52302,Linn,Marion
+52303,Linn,Cedar Rapids
+52306,Cedar,Mechanicsville
+52310,Jones,Monticello
+52314,Linn,Mount Vernon
+52316,Iowa,North English
+52317,Johnson,North Liberty
+52322,JOHNSON,Oxford
+52324,Linn,Palo
+52327,Washington,Riverside
+52328,Linn,Robins
+52332,Benton,Shellsburg
+52333,Johnson,Solon
+52336,Linn,Springville
+52337,Cedar,Stanwood
+52338,Polk,Swisher
+52339,TAMA,Tama
+52340,Johnson,Tiffin
+52342,Tama,Toledo
+52345,Benton,Urbana
+52346,BENTON,Van Horne
+52347,Poweshiek,Victor
+52349,Benton,Vinton
+52351,Linn,Walford
+52352,Linn,Walker
+52353,Washington,Washington
+52356,Wapello,Wellman
+52358,Cedar,West Branch
+52361,Iowa,Williamsburg
+52401,Linn,Cedar Rapids
+52402,Linn,Cedar Rapids
+52403,Linn,Cedar Rapids
+52404,Linn,Cedar Rapids
+52405,Linn,Mediapolis
+52411,Linn,Cedar Rapids
+52501,Wapello,Otumwa
+52531,Monroe,Albia
+52537,Davis,Bloomfield
+52544,Appanoose,Centerville
+52553,Wapello,Eddyville
+52554,Wapello,Eldon
+52556,Jefferson,Fairfield
+52565,Van Buren,Keosauqua
+52571,Appanoose,Moravia
+52577,Mahaska,Oskaloosa
+52590,WAYNE,Seymour
+52591,Keokuk,Sigourney
+52601,Des Moines,Burlington
+52623,Des Moines,Danville
+52625,Lee,Donnellson
+52626,Van Buren,Farmington
+52627,Lee,Fort Madison
+52632,Lee,Keokuk
+52637,Des Moines,Mediapolis
+52639,Lee,Montrose
+52641,Henry,Mt Pleasant
+52653,Louisa,Wapello
+52655,Des Moines,West Burlington
+52656,Lee,West Point
+52659,HENRY,Winfield
+52722,Scott,Bettendorf
+52726,Scott,Blue Grass
+52728,Scott,Buffalo
+52730,Clinton,Camanche
+52732,Clinton,Clinton
+52733,Clinton,Clinton
+52738,Louisa,Columbus Junction
+52742,Clinton,Dewitt
+52747,Cedar,Durant
+52748,Scott,Eldridge
+52751,Clinton,Grand Mounds
+52753,Scott,Leclaire
+52761,Muscatine,Muscatine
+52768,Scott,Princeton
+52772,Cedar,Tipton
+52776,Muscatine,West Liberty
+52777,Clinton,Wheatland
+52778,Muscatine,Wilton
+52801,Scott,Davenport
+52802,Scott,Davenport
+52803,Scott,Davenport
+52804,Scott,Davenport
+52806,Scott,Davenport
+52807,Scott,Davenport
+56201,Des Moines,Burlington
+712-2,Harrison,Dunlap
